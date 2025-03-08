@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmad Haikal Rizal
 ==========================================================================================================================================
 
-Software Developer
+Junior Software Developer
 ------------------
 
 I'm diving into the world of software development, with a focus on building innovative applications. As a remote developer, I enjoy connecting and collaborating with the tech community. Although I'm new to GitHub, I'm eager to share my work, learn from others, and grow my skills along the way!
