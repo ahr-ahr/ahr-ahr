@@ -7,7 +7,7 @@ Junior Software Developer
 I'm diving into the world of software development, with a focus on building innovative applications. As a remote developer, I enjoy connecting and collaborating with the tech community. Although I'm new to GitHub, I'm eager to share my work, learn from others, and grow my skills along the way!
 
 * 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [ahr2396@gmail.com](mailto:ahr2396@gmail.com)
+* ✉️  You can contact me at [ahr2396@gmail.com](mailto:ahr2396@gmail.com) or [ahr@ahr180607.my.id](mailto:ahr180607.my.id@my.id)
 * ⚡  Feel free to reach out for exciting collaborations, open-source contributions, or to chat about tech!
 
 ### Skills
