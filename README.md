@@ -28,7 +28,7 @@ I'm diving into the world of software development, with a focus on building inno
 
 <a href="https://github.com/ahr-ahr">
   <img 
-    src="https://streak-stats.demolab.com?user=ahr-ahr&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com/?user=ahr-ahr&theme=tokyonight&hide_border=true" 
     alt="ahr-ahr GitHub streak"
   />
 </a>
