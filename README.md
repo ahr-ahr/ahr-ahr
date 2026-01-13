@@ -24,10 +24,22 @@ I'm diving into the world of software development, with a focus on building inno
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ahr-ahr"><img src="https://github-readme-stats.vercel.app/api?username=ahr-ahr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ahr-ahr's GitHub stats" /></a>
+<a href="https://github.com/ahr-ahr">
+  <img 
+    src="https://streak-stats.demolab.com?user=ahr-ahr&theme=tokyonight&hide_border=true" 
+    alt="ahr-ahr GitHub streak"
+  />
+</a>
 
-<a href="http://www.github.com/ahr-ahr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahr-ahr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br/>
+
+<a href="https://github.com/ahr-ahr">
+  <img src="https://img.shields.io/github/followers/ahr-ahr?label=Followers&style=for-the-badge" />
+</a>
+<a href="https://github.com/ahr-ahr?tab=repositories">
+  <img src="https://img.shields.io/github/stars/ahr-ahr?label=Total%20Stars&style=for-the-badge" />
+</a>
 
 <a href="https://github.com/ahr-ahr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahr-ahr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
