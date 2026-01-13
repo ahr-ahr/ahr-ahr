@@ -24,7 +24,7 @@ I'm diving into the world of software development, with a focus on building inno
 
 ### Badges
 
-<<b>My GitHub Stats</b>
+<b>My GitHub Stats</b>
 
 <a href="https://github.com/ahr-ahr">
   <img 
